@@ -3,17 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjultiwari2125&label=Profile%20views&color=0e75b6&style=flat" alt="pranjultiwari2125" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranjultiwari2125" alt="pranjultiwari2125" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranjultiwari2125" alt="pranjultiwari2125" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/pranjul2103" target="blank"><img src="https://img.shields.io/twitter/follow/pranjul2103?logo=twitter&style=for-the-badge" alt="pranjul2103" /></a> </p>
 
-- 🌱 I’m currently learning **Backend web development and data structures.**
+- 🌱 I’m currently learning **web development and data structures.**
 
-- 💬 Ask me about **Web development and Cricket.**
+- 💬 Ask me about **Web development.**
 
-- 📫 How to reach me **pranjultiwari7800@gmail.com**
+- 💬 open to exchange information regarding **Tech Trends.**
 
-- ⚡ Fun fact **I convert coffee into code.**
+- 📫 How to reach me - **pranjultiwari7800@gmail.com**
+
+- ⚡ Fun fact - **I convert coffee into code.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
