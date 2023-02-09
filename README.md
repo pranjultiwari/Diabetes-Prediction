@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/pranjul2103" target="blank"><img src="https://img.shields.io/twitter/follow/pranjul2103?logo=twitter&style=for-the-badge" alt="pranjul2103" /></a> </p>
 
-- 🌱 I’m currently learning **Bootstrap & Javascript**
+- 🌱 I’m currently learning **Bootstrap & Reactjs**
 
 - 💬 Ask me about **Web development.**
 
