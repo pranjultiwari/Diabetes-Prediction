@@ -20,6 +20,9 @@ f = float(input("Enter BMI: "))
 g = float(input("Enter the Diabetes Pedigree Function: "))
 h = int(input("Enter the age: "))
 
+imp_list = [a,b,c,d,e,f,g,h]
+if len(imp_list) != 8:
+  print("Data Missing!")
 input_data = (a,b,c,d,e,f,g,h)
 
 # changing the input_data to numpy array
@@ -34,4 +37,5 @@ print(prediction)
 if (prediction[0] == 0):
   print('The person is not diabetic')
 else:
+
   print('The person is diabetic')
